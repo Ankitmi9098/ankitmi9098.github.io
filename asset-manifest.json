@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0da0d79.css",
-    "main.js": "/static/js/main.5912ecce.js",
+    "main.css": "/static/css/main.74e3ce06.css",
+    "main.js": "/static/js/main.6caf3483.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/task_manager.jpg": "/static/media/task_manager.6384cb14cca2eecbeb33.jpg",
     "static/media/address_book.jpg": "/static/media/address_book.663d94d36f53736ac7f3.jpg",
     "static/media/chat_app.jpg": "/static/media/chat_app.523eeffd41a4debbe640.jpg",
+    "static/media/e_commerce.jpg": "/static/media/e_commerce.15a7f3108f766459d35f.jpg",
+    "static/media/train_ticket_booking_1.jpg": "/static/media/train_ticket_booking_1.48e5384066ca44bfce87.jpg",
     "static/media/tic_tac_toe.png": "/static/media/tic_tac_toe.29900f8a0b6416b7071e.png",
     "index.html": "/index.html",
-    "main.a0da0d79.css.map": "/static/css/main.a0da0d79.css.map",
-    "main.5912ecce.js.map": "/static/js/main.5912ecce.js.map",
+    "main.74e3ce06.css.map": "/static/css/main.74e3ce06.css.map",
+    "main.6caf3483.js.map": "/static/js/main.6caf3483.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0da0d79.css",
-    "static/js/main.5912ecce.js"
+    "static/css/main.74e3ce06.css",
+    "static/js/main.6caf3483.js"
   ]
 }
